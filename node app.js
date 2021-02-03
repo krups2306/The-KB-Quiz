@@ -18,7 +18,7 @@ function play(question,answer){
 
 
 var questions = [{
-  question: "Where do I live? \na:Mumbai   b:Ahmedabad \nc:Delhi    d:Pune \Your ans: ",
+  question: "Where do I live? \na:Mumbai   b:Ahmedabad \nc:Delhi    d:Pune \nYour ans: ",
   answer: "b"},{
   question: "Which color is my favourite? \na:Blue   b:Black \nc:Pink   d:Purple \nYour ans: ",
   answer: "a"},{
