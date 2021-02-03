@@ -1,2 +1,2 @@
 # The-KB-Quiz
- A small quiz about how well do you me
+ A small quiz created using Node.js. Do check it out and see "How well do you know me...!"
