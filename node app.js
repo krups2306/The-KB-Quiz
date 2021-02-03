@@ -18,12 +18,12 @@ function play(question,answer){
 
 
 var questions = [{
-  question: "Where do I live? ",
-  answer: "ahmedabad"},{
-  question: "Which color is my favourite? ",
-  answer: "blue"},{
-  question: "What am I studying in college? ",
-  answer: "engineering"  
+  question: "Where do I live? \na:Mumbai   b:Ahmedabad \nc:Delhi    d:Pune \Your ans: ",
+  answer: "b"},{
+  question: "Which color is my favourite? \na:Blue   b:Black \nc:Pink   d:Purple \nYour ans: ",
+  answer: "a"},{
+  question: "Which is my favourite Hollywood movie? \na:Final Destination-5   b:The Avengers:EndGame \nc:Transformers          d:Interstellar \nYour ans: ",
+  answer: "a"  
 }]
 
 for( var i=0; i<questions.length; i++){
